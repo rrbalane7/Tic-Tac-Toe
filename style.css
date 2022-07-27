@@ -199,6 +199,10 @@ footer{
         font-size: 1.3rem;
     }
 
+    #game-status-cont{
+        top:30%
+    }
+
 
 }
     
